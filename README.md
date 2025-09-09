@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # student-Amirhosein-Ghiasi
 =======
 1. شبکه
@@ -20,4 +19,3 @@ def hello_world(request):
 
 پارامتر request یک شی هست که حاوی همه جزئیات درخواست میشه
 که در اینجا این تابع یک متن ساده برمیگردونه
->>>>>>> 1e0638a (Initial Commit)

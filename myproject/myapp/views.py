@@ -1,6 +1,5 @@
 from django.http import HttpResponse
-
-USERNAME = "Amirhosein Ghiasi"
+from myproject.settings import USERNAME
 
 def hello_world(request):
     return HttpResponse(f"Hello World {USERNAME}")

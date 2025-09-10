@@ -1,0 +1,5 @@
+.venv/
+.vscode/
+
+dev_project/dev_project/__pycache__/
+dev_project/dev_app/__pycache__/
